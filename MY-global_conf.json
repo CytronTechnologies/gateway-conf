@@ -7,7 +7,7 @@
 			"enable": true,
 			"type": "SX1257",
 			"freq": 922400000,
-			"rssi_offset": -165.2,
+			"rssi_offset": -166.0,
 			"tx_enable": true,
                         "tx_freq_min": 919000000,
                         "tx_freq_max": 923000000
@@ -16,7 +16,7 @@
 			"enable": true,
 			"type": "SX1257",
 			"freq": 919800000,
-			"rssi_offset": -165.2,
+			"rssi_offset": -166.0,
 			"tx_enable": false
 		},
 		"chan_multiSF_0": {
